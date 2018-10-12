@@ -1,2 +1,2 @@
-# layouts_One
+# layouts-one
 layout with color box
